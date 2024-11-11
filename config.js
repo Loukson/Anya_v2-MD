@@ -16,15 +16,15 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒",
+    ownernumber: process.env.Owner_Number || "22502331988",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
      * other details and parameters
      */
     author: process.env.Author || "✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳",
-    packname: process.env.PackName || "✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳",
+    packname: process.env.PackName || "༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟➳",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
